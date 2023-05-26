@@ -1,6 +1,7 @@
 # Building Blocks Game
 
-![Building Blocks Game](Building Blocks-game-screenshot.png)
+
+<!-- ![Building Blocks Game](Building Blocks-game-screenshot.png) -->
 
 Welcome to the Simple Building Blocks Game! This repository contains the source code and files for a user-friendly game created using the JavaScript programming language. The game is designed to be easily modified and customized according to your preferences.
 
